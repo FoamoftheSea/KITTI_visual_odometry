@@ -9,10 +9,13 @@ The final estimated trajectory given by the approach in this notebook drifts ove
 Please reach out with any comments or suggestions.
 
 Stereo disparity map of first sequence image:
+
 ![Disparity Map](images/disparity_map.png)
 
 Estimated depth map from stereo disparity:
+
 ![Estimated Depth Map](images/depth_map.png)
 
 Final estimated trajectory vs ground truth:
+
 ![Estimated Trajectory](images/estimated_trajectory.png)
