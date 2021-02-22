@@ -8,6 +8,14 @@ The final estimated trajectory given by the approach in this notebook drifts ove
 
 Please reach out with any comments or suggestions.
 
+
+### How to use this repository:
+
+Clone this repository into a folder which also contains your download of the KITTI odometry dataset in a separate folder called 'dataset'. The tutorial is contained in the KITTI_visual_odometry.ipynb jupyter notebook.
+
+
+### Sample Images:
+
 Stereo disparity map of first sequence image:
 
 ![Disparity Map](images/disparity_map.png)
